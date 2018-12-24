@@ -1,0 +1,9 @@
+.idea
+
+.gradle
+gradle*
+settings.gradle
+build.gradle
+
+*.class
+Task.java
