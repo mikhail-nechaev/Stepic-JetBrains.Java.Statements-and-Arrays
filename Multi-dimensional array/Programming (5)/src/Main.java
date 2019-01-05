@@ -19,5 +19,18 @@ public class Main {
     int sw1 = sc.nextInt();
     int sw2 = sc.nextInt();
 
+    for (int y = 0; y < a; y++){
+      int swap = arr[y][sw1];
+      arr[y][sw1] = arr[y][sw2];
+      arr[y][sw2] = swap;
+    }
+
+    for (int i = 0; i < a; i++) {
+      for (int j = 0; j < b; j++) {
+        System.out.print(arr[i][j] + " ");
+      }
+      System.out.println();
+    }
+
   }
 }

@@ -2668,7 +2668,7 @@
                       </option>
                       <option name="index" value="7" />
                       <option name="name" value="Programming (5)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294399" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
@@ -2711,9 +2711,9 @@
                       </option>
                       <option name="index" value="8" />
                       <option name="name" value="Programming (6)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294398" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2722,7 +2722,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2754,9 +2754,9 @@
                       </option>
                       <option name="index" value="9" />
                       <option name="name" value="Programming (7)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294401" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2765,7 +2765,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2797,9 +2797,9 @@
                       </option>
                       <option name="index" value="10" />
                       <option name="name" value="Programming (8)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294402" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2808,7 +2808,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2840,9 +2840,9 @@
                       </option>
                       <option name="index" value="11" />
                       <option name="name" value="Programming (9)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294403" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Main.java">
@@ -2851,7 +2851,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Main.java" />
                                 <option name="text" value="public class Main {&#10;&#10;  public static void main(String[] args) {&#10;    //put your code here&#10;  }&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -2896,7 +2896,7 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Theory" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294377" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="taskFiles">
@@ -2930,10 +2930,10 @@
                       </option>
                       <option name="choiceVariants">
                         <list>
-                          <option value="nothing" />
                           <option value="the address of an object" />
                           <option value="a pointer to an object" />
                           <option value="an actual value" />
+                          <option value="nothing" />
                         </list>
                       </option>
                       <option name="customPresentableName" />
@@ -2949,9 +2949,11 @@
                       <option name="multipleChoice" value="false" />
                       <option name="name" value="Quiz" />
                       <option name="selectedVariants">
-                        <list />
+                        <list>
+                          <option value="0" />
+                        </list>
                       </option>
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294408" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="taskFiles">
@@ -2985,10 +2987,10 @@
                       </option>
                       <option name="choiceVariants">
                         <list>
-                          <option value="Null" />
                           <option value="null" />
-                          <option value="NULL" />
+                          <option value="Null" />
                           <option value="NaN" />
+                          <option value="NULL" />
                           <option value="nil" />
                         </list>
                       </option>
@@ -3005,9 +3007,11 @@
                       <option name="multipleChoice" value="true" />
                       <option name="name" value="Quiz (1)" />
                       <option name="selectedVariants">
-                        <list />
+                        <list>
+                          <option value="0" />
+                        </list>
                       </option>
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294404" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="taskFiles">
@@ -3041,11 +3045,11 @@
                       </option>
                       <option name="choiceVariants">
                         <list>
-                          <option value="The first line is compiled, the second line can't be compiled." />
-                          <option value="Both lines can't be compiled." />
-                          <option value="The first line can't be compiled, the second line is compiled." />
                           <option value="Both lines can be compiled and no any exceptions here." />
+                          <option value="Both lines can't be compiled." />
                           <option value="Both lines can be compiled, but first one throws NullPointerException." />
+                          <option value="The first line can't be compiled, the second line is compiled." />
+                          <option value="The first line is compiled, the second line can't be compiled." />
                         </list>
                       </option>
                       <option name="customPresentableName" value="Quiz" />
@@ -3061,9 +3065,11 @@
                       <option name="multipleChoice" value="false" />
                       <option name="name" value="Quiz (2)" />
                       <option name="selectedVariants">
-                        <list />
+                        <list>
+                          <option value="4" />
+                        </list>
                       </option>
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294406" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="taskFiles">
@@ -3106,7 +3112,7 @@
                       </option>
                       <option name="index" value="5" />
                       <option name="name" value="Theory (1)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294405" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="taskFiles">
@@ -3140,11 +3146,11 @@
                       </option>
                       <option name="choiceVariants">
                         <list>
+                          <option value="Long val = 4321L;" />
+                          <option value="Long val = new Long(&quot;4321&quot;);" />
                           <option value="Long val = 4321;" />
                           <option value="Long val = Long.parseLong(&quot;4321&quot;);" />
-                          <option value="Long val = new Long(&quot;4321&quot;);" />
                           <option value="Long val = new Long(4321);" />
-                          <option value="Long val = 4321L;" />
                         </list>
                       </option>
                       <option name="customPresentableName" value="Quiz" />
@@ -3160,9 +3166,14 @@
                       <option name="multipleChoice" value="true" />
                       <option name="name" value="Quiz (3)" />
                       <option name="selectedVariants">
-                        <list />
+                        <list>
+                          <option value="0" />
+                          <option value="1" />
+                          <option value="3" />
+                          <option value="4" />
+                        </list>
                       </option>
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="294407" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="taskFiles">
