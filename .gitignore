@@ -8,3 +8,13 @@ build.gradle
 
 *.class
 Task.java
+
+*.iml
+
+*.class
+
+#project
+img
+out
+javadoc
+res/scripts
