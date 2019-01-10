@@ -16,22 +16,26 @@ public class Main {
     }
     int k = scanner.nextInt();
 
-    int max = 0;
-    int ctr = 0;
-    int row = 0;
+    StringBuilder stringBuilder = new StringBuilder();
+    for (int i = 0; i < k; i++) {
+      stringBuilder.append("0");
+    }
+    String pattern = stringBuilder.toString();
+
+    String[] arr = new String[n];
     for (int i = 0; i < n; i++) {
       for (int j = 0; j < m; j++) {
-        if (j != m - 1 && matrix[i][j] == 0 && matrix[i][j+1] == 0) {
-          ctr++;
-        } else {
-          if (ctr > max) {
-            max = ctr;
-            row = i + 1;
-          }
-          ctr = 0;
-        }
+        arr[i]+=matrix[i][j];
       }
     }
-    System.out.println(row);
+
+    int answer = 0;
+    for (int i = 0; i < n; i++) {
+      if (arr[i].contains(pattern)) {
+        answer = i + 1;
+        break;
+      }
+    }
+    System.out.println(answer);
   }
 }

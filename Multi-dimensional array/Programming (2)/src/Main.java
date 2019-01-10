@@ -14,20 +14,10 @@ public class Main {
         array[i][j] = scanner.nextInt();
       }
     }
-    int[][] newArray = new int[m][];
+
     for (int i = 0; i < m; i++) {
-      newArray[i] = new int[n];
-    }
-
-    for (int i = 0; i < n; i++) {
-      for (int j = 0; j < m; j++) {
-        newArray[j][i] = array[i][j];
-      }
-    }
-
-    for (int i = 0; i < n; i++) {
-      for (int j = 0; j < m; j++) {
-        System.out.print(newArray[i][j] + " ");
+      for (int j = 0; j < n; j++) {
+        System.out.print(array[j][i] + " ");
       }
     }
   }
